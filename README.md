@@ -5,9 +5,10 @@ For running project install composer on your machine using below command
 sudo php composer-setup.php --install-dir=/usr/local/bin --filename=composer
 then run
 composer install
-based on the .env create database import sql file and run the code
+based on the .env create database import sql file
 
-php artisan serve
+runt the code php artisan serve
+
 on the project folder using command prompt
 
 Routes:
